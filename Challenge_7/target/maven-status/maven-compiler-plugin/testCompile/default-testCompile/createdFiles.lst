@@ -1,0 +1,7 @@
+app\binar\steps\checkoutStep.class
+app\binar\runners\testRunner.class
+app\binar\steps\sortingStep.class
+app\binar\pages\homePage.class
+app\binar\pages\loginPage.class
+app\binar\steps\loginStep.class
+app\binar\steps\commonStep.class
